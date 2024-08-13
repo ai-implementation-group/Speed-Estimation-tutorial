@@ -78,6 +78,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to add a `requirements.txt` file and any other necessary files before uploading the `README.md` to your repository.
