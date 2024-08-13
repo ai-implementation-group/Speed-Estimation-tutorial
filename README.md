@@ -41,6 +41,7 @@ pip install -r requirements.txt
 ```
 
 Make sure you have the YOLOv8 model file (`yolov8x.pt`) in the project directory or modify the code to load a model of your choice.
+And also, download the input video file from [here](https://www.youtube.com/watch?v=KBsqQez-O4w) and place it in the project directory.
 
 ## Usage
 
